@@ -8,7 +8,7 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
 - Evaluated the model with metrics such as accuracy, precision, recall, F1-score, confusion matrix, and ROC curve.
 
 **Dataset** :
-- Name: Toddler Autism dataset (July 2018)
+- Name: Toddler Autism dataset
 - Source: UCI Machine Learning Repository - Autism Screening Adult, Adolescent, and Toddler Data Sets
 - Target Column: Class/ASD Traits (Yes / No)
 - Features include:
