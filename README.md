@@ -42,6 +42,10 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
  F1 Score       0.87  
 
 **How to Run the Project** :
-1.Clone the repository:
+- Clone the repository:
       git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
-cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+      cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+
+
+
+
