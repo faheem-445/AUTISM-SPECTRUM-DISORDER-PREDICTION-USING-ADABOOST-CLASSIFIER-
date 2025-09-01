@@ -1,6 +1,6 @@
 # AUTISM-SPECTRUM-DISORDER-PREDICTION-USING-ADABOOST-CLASSIFIER
 
-This project analyzes the Toddler Autism dataset (July 2018) and builds a machine learning model to predict Autism Spectrum Disorder (ASD) traits in toddlers. The project includes data visualization, preprocessing, and classification using AdaBoost, along with performance evaluation metrics.
+This project analyzes the Toddler Autism dataset and builds a machine learning model to predict Autism Spectrum Disorder (ASD) traits in toddlers. The project includes data visualization, preprocessing, and classification using AdaBoost, along with performance evaluation metrics.
 
 **Project Overview** :
 - Performed exploratory data analysis (EDA) with visualizations to understand the distribution of ASD cases across various demographic and medical factors.
