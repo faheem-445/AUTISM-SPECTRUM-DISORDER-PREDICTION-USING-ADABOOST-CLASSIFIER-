@@ -34,17 +34,32 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
 
 **Results** :
 
- Metric        Value 
+| Metric    | Value |
+| --------- | ----- |
+| Accuracy  | 0.88  |
+| Precision | 0.85  |
+| Recall    | 0.90  |
+| F1 Score  | 0.87  |
 
- Accuracy       0.88  
- Precision      0.85  
- Recall         0.90  
- F1 Score       0.87  
 
 **How to Run the Project** :
-- Clone the repository:
-      git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
-      cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
+   cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+   ```
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the Bokeh and Dash applications:
+
+   ```bash
+   python heart_disease.py     # For heart disease prediction
+   python heart_attack.py      # For heart attack risk prediction
+   python chatbot.py           # For chatbot interface
+   ```
 
 
 
