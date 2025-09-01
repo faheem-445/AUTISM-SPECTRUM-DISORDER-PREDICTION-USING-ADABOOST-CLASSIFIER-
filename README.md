@@ -34,14 +34,14 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
 
 **Results** :
 
-| Metric   |     | Value |
-| -------- |     | ----- |
-| Accuracy |     | 0.88  |
-| Precision|     | 0.85  |
-| Recall   |     | 0.90  |
-| F1 Score |     | 0.87  |
+ Metric        Value 
+
+ Accuracy       0.88  
+ Precision      0.85  
+ Recall         0.90  
+ F1 Score       0.87  
 
 **How to Run the Project** :
 1.Clone the repository:
-        git clone https://github.com/faheem-445/asd-adaboost.git
-        cd asd-adaboost
+        - git clone https://github.com/faheem-445/asd-adaboost.git
+        - cd asd-adaboost
