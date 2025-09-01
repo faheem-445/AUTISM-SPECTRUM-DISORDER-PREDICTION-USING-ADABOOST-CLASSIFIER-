@@ -43,22 +43,23 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
 
 
 **How to Run the Project** :
-1. Clone the repository:
+1. Clone the repository :
 
    ```bash
-   git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
-   cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
+   git clone https://github.com/faheem-445/AUTISM-SPECTRUM-DISORDER-PREDICTION-USING-ADABOOST-CLASSIFIER-.git
+   cd AUTISM-SPECTRUM-DISORDER-PREDICTION-USING-ADABOOST-CLASSIFIER-
    ```
 
-2. Install dependencies:
-   pip install -r requirements.txt
-
-3. Run the Bokeh and Dash applications:
+2. Install dependencies :
 
    ```bash
-   python heart_disease.py     # For heart disease prediction
-   python heart_attack.py      # For heart attack risk prediction
-   python chatbot.py           # For chatbot interface
+   pip install -r requirements.txt
+     ```
+
+3. Run the python script :
+
+   ```bash
+   python asd_adaboost.py   
    ```
 
 
