@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 # Load the dataset
-data = pd.read_csv("Toddler Autism dataset July 2018.csv")
+data = pd.read_csv("Toddler Autism dataset.csv")
 
 # Drop unnecessary column
 data = data.drop("Case_No", axis=1)
