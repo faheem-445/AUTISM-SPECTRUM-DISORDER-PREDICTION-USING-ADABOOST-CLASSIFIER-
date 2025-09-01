@@ -43,5 +43,5 @@ This project analyzes the Toddler Autism dataset (July 2018) and builds a machin
 
 **How to Run the Project** :
 1.Clone the repository:
-        - git clone https://github.com/faheem-445/asd-adaboost.git
-        - cd asd-adaboost
+      git clone https://github.com/Severus-193/DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT.git
+cd DUAL_STAGE_ANFIS_HEART_HEALTH_ASSESSMENT
